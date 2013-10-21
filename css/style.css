@@ -643,7 +643,7 @@ a:hover {
 		
 }
 
-@media screen and (min-width: 768px) and (max-width: 979px) {
+@media screen and (min-width: 902px) and (max-width: 979px) {
 
 	#section1 .intro h3 {
 		width: 85%;
@@ -660,7 +660,7 @@ a:hover {
 }
 
 
-@media (max-width: 767px) {
+@media (max-width: 901px) {
 	
 	body {
 		padding: 0px;
@@ -687,7 +687,7 @@ a:hover {
 	}
 		
 	#section1 {
-		background-size: 920px auto;
+		background-size: 1060px auto;
 	}
 	
 	#section1 .intro {
