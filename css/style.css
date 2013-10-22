@@ -788,3 +788,23 @@ a:hover {
 
 
 
+.service {
+	padding:12px;
+	text-align:left;
+}
+
+.service li {
+    display: block;
+    padding: 7px 0;
+    border-bottom: 1px solid #bfbfbf;
+    font-size:14px;
+}
+.service li:last-child {
+    border: none;
+}
+
+.service:hover {
+	background-color:#f5f7f8;
+	border-bottom:5px #c0392b solid; 
+}
+
