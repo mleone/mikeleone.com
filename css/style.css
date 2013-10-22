@@ -820,3 +820,7 @@ p.client {
   height: 70px;
 
 }
+
+div.presentations img {
+  border: 1px solid;
+}
