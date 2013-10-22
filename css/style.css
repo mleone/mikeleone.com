@@ -464,8 +464,9 @@ a:hover {
 
 #section4 h4 {
 	border-bottom: 1px solid #151515;
-    height: 35px;
-    margin-bottom: 18px;
+  height: 35px;
+  margin-bottom: 18px;
+  overflow: hidden;
 }
 
 
@@ -808,3 +809,14 @@ a:hover {
 	border-bottom:5px #c0392b solid; 
 }
 
+
+p.client img {
+  width: 70px;
+  height: auto;
+  margin-right: 10px;
+}
+
+p.client {
+  height: 70px;
+
+}
