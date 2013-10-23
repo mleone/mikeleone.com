@@ -824,3 +824,11 @@ p.client {
 div.presentations img {
   border: 1px solid;
 }
+
+div.contact {
+  font-size: 120%;
+}
+
+div.contact i {
+  padding-right: 10px;
+}
