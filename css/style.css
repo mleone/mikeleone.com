@@ -422,7 +422,7 @@ a:hover {
 }
 
 #section4 .content {
-	min-height: 300px;
+	min-height: 415px;
 }
 
 #section4 .content .span8 {
@@ -830,7 +830,7 @@ p.client {
 
 }
 
-div.presentations img {
+div.slide img {
   border: 1px solid #151515;
 }
 
@@ -841,3 +841,4 @@ div.contact {
 div.contact i {
   padding-right: 10px;
 }
+
