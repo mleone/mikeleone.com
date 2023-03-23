@@ -89,8 +89,13 @@ h6 {
   .linktree {
 	  width: 120px;
 	  height: 120px;
-	  background-image: url("img/thumb.jpg");
+	  background-image: url('/img/thumb.jpg');
 	  background-size: cover;
 	  background-repeat: no-repeat;
 	  background-position: 50% 50%;
   }
+
+.big-link, .big-link:link, .big-link:hover {
+  font-weight: 700;
+  color: inherit;
+}
